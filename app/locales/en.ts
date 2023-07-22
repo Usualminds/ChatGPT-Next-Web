@@ -280,6 +280,7 @@ const en: LocaleType = {
   Plugin: {
     Name: "Plugin",
   },
+  Blog: { Name: "Blog" },
   Mask: {
     Name: "Mask",
     Page: {

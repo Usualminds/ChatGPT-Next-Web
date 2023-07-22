@@ -244,6 +244,7 @@ const fr: PartialLocaleType = {
   Plugin: {
     Name: "Extension",
   },
+  Blog: { Name: "Blog" },
   Mask: {
     Name: "Masque",
     Page: {

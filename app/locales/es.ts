@@ -190,6 +190,7 @@ const es: PartialLocaleType = {
   Plugin: {
     Name: "Plugin",
   },
+  Blog: { Name: "Blog" },
   Mask: {
     Name: "Mask",
     Page: {

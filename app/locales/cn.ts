@@ -275,6 +275,9 @@ const cn = {
   Plugin: {
     Name: "插件",
   },
+  Blog: {
+    Name: "博客",
+  },
   Mask: {
     Name: "面具",
     Page: {
